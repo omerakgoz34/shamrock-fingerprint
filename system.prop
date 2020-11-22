@@ -2,9 +2,6 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 
-ro.vendor.build.date=Tue Feb 27 05:08:41 UTC 2018
-ro.vendor.build.date.utc=1519708121
-ro.vendor.build.fingerprint=qcom/shamrock/shamrock:7.1.1/NNK57/4622467:user/dev-keys
 ro.product.device=gm5plus_sprout
 ro.product.name=gm5plus
 ro.product.manufacturer=General Mobile
@@ -13,7 +10,4 @@ ro.product.brand=gm
 ro.build.version.security_patch=2018-03-05
 ro.build.flavor=shamrock-user
 ro.build.product=shamrock
-ro.build.description=shamrock-user 7.1.1 NNK57 4622467 release-keys
-ro.build.thumbprint=7.1.1/NNK57/4622467:user/release-keys
-ro.build.characteristics=default
 ro.build.fingerprint=gm/gm5plus/gm5plus_sprout:7.1.1/NNK57/4622467:user/release-keys
