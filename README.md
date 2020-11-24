@@ -1,6 +1,7 @@
 # Stock Fingerprint for Shamrock
 Shamrock cihazları için Stock Fingerprint ayarlama modülü.  
 Bu Magisk modülü sayesinde Stock ROM Fingerprint'e(cihaz imzasına) sahip olabilir ve Google'ın SafetyNet kontrolünden geçebilirsiniz.
+SafetyNet'i geçerek de Netflix ve banka uygulamaları gibi sistem modifikasyonuna sıcak bakmayan uygulamaları sanki orijinal sistemi kullanır gibi kullanabilirsiniz.
 
 ## Uyarı
 * Modülün işe yaraması ve SafetyNet'in başarılı olması için basicIntegrity kontrolünün de başarılı olması gerekmektedir. Aksi takdirde hiçbir şekilde ctsProfile kontrolü başarılı olmayacaktır.
