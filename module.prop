@@ -1,6 +1,6 @@
 id=shamrock-stock-fingerprint
-name=Stock Fingerprint for Shamrock
+name=Stock Fingerprint for Shamrock 7.1
 version=v1.0.1
-versionCode=10100
+versionCode=10101
 author=omerakgoz34
-description=Shamrock cihazları için Stock Fingerprint ayarlama modülü
+description=Shamrock cihazları için Stock Fingerprint ayarlama modülü (Android 7.1)
